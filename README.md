@@ -22,8 +22,8 @@ cancellation_time_in_seconds - how many seconds passed before cancellation
 ```
 <br>
 <br>The data_offers data set is a simple map with 2 columns:
-```
 
+```
 order_gk - order number, associated with the same column from the orders data set
 offer_id - ID of an offer
 
